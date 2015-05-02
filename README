@@ -1,0 +1,9 @@
+RESTful API written in Scala, using the Play Framework.
+
+To start the application:
+    ./activator run
+
+And then http://localhost:9000
+
+To use the REST API:
+	Use the JSON COllection: 
